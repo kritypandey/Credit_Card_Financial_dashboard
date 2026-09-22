@@ -1,6 +1,7 @@
 # Credit_Card_Financial_dashboard
 PowerBI Dashboard
-**# Credit Card Weekly Analytics Dashboard
+
+**# Credit Card Weekly Analytics Dashboard**
 
 ## Power BI Dashboard Project
 
